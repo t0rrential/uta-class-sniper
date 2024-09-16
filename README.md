@@ -1,7 +1,7 @@
 
 # THIS DOES NOT WORK AS OF UPLOAD! DO NOT RUN
 
-# uta class notifier
+# uta class sniper
 
 This project was inspired by [a class notifier made for UT Austin](https://github.com/christiandipert/UT-Course-Availability-Tracker).
 
