@@ -1,3 +1,6 @@
+NOTE: if you are looking for the tempo csv project, you can find it here: [link to tempo csv project](https://github.com/t0rrential/tempo-csv-manager/)
+somehow they have been mixed up. sorry for the misunderstanding.
+
 
 # THIS DOES NOT WORK AS OF UPLOAD! DO NOT RUN
 
